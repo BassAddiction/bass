@@ -7,7 +7,7 @@ import os
 
 from telebot.async_telebot import AsyncTeleBot
 #bot yhoo
-bot = AsyncTeleBot('')
+bot = AsyncTeleBot('8385959704:AAFBRq8nNPZ3_N1SxXkmAHQMnQj7gf6s8tE')
 
 
 # Handle '/start' and '/help'
